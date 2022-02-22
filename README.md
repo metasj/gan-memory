@@ -1,1 +1,2 @@
 # gan-memory
+Currently private
